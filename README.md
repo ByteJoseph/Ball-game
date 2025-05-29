@@ -1,5 +1,8 @@
 # Ball Game
 A fun ball bouncing game that challenges your reflexes
+
+![image](https://github.com/user-attachments/assets/afd91c69-c878-40e7-991e-66d7222c63c3)
+
 # Download
 Get the Windows executable here:
 
